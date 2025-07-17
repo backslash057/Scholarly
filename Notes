@@ -1,0 +1,38 @@
+Application Android pour faciliter la communication entre enseignants, parents et directeur dans une école primaire.
+L’interface et les fonctionnalités varient selon le profil de l’utilisateur.
+
+1. Accueil – Fil d’actualité
+Tous les utilisateurs voient un fil d’actualité :
+
+Annonces générales visibles par tous.
+
+Parents : voient aussi les annonces liées à la classe de leur enfant.
+
+Enseignants : ne voient que les annonces de leur propre classe.
+
+Directeur : voit toutes les annonces de toutes les classes.
+
+2. Chat
+Tous les utilisateurs peuvent discuter entre eux via une section de messagerie.
+
+Pour démarrer une conversation, il faut cliquer sur le nom d’un utilisateur qui a publié une annonce.
+
+Les parents ne peuvent pas initier une discussion entre eux.
+
+3. Notes
+Parents : voient les fichiers de notes concernant leur enfant.
+
+Enseignants : accèdent aux notes de leur propre classe.
+
+Directeur : a accès à toutes les notes.
+
+4. Finances
+Parents : voient leur historique de paiements ainsi que le montant restant à payer.
+
+Enseignants : ont accès à leur historique de salaires.
+
+Directeur : dispose d’un tableau de bord financier avec des statistiques globales (taux de paiement, etc.).
+
+5. profil
+
+Tous: voit son propre profil utilisateur
