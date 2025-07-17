@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Acceuil" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="Messages" />
+
+    <item
+        android:id="@+id/navigation_note"
+        android:icon="@drawable/outline_sticky_note_2_24"
+        android:title="Notes" />
+
+
+    <item
+        android:id="@+id/navigation_finance"
+        android:icon="@drawable/outline_finance_24"
+        android:title="Finances" />
+
+</menu>
